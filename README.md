@@ -1,2 +1,3 @@
 # johnrespo
-this is my new respository
+this is my java respository...
+it contains various types of java programs..
