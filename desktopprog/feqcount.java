@@ -11,7 +11,7 @@
 
 
 import java.util.*;
-class feqsort
+class feqcount
 {
     public static void main(String args[])
     {
